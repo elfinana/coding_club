@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179771938028",
+    "project_id": "typetest-44d29",
+    "storage_bucket": "typetest-44d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179771938028:android:0f7e059b05d6db7ea581c9",
+        "android_client_info": {
+          "package_name": "com.sunah.typetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179771938028-0tl2msvds32k9ie6q6a59mu1eo1j67dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3zVdM1wrnjZcnqz5_d2Nk_kV1XqWe7DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179771938028-0tl2msvds32k9ie6q6a59mu1eo1j67dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
